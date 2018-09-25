@@ -26,7 +26,8 @@
     font-size: 5em;
 }
 h2{
-text-align:center;
+    text-align:center;
+    color:white;
 }
 .forecast-div {
     display: flex;
@@ -40,6 +41,7 @@ text-align:center;
 
 h1 {
     text-align: center;
+    color:white;
 }
 body{
     background-image:url("images/both.jpg");
@@ -51,9 +53,9 @@ body{
     overflow-y: scroll;*/
 }
 .overall{
-  background-color: #9e9e9e6e;
-  height: 100vh;
-    overflow-y: scroll;
+   background-color: #9e9e9e6e;
+   height: 100vh;
+   overflow-y: scroll;
 }
 
 
