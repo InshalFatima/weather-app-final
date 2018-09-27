@@ -1,15 +1,15 @@
-Here is the link of Weather app https://inshalfatima.github.io/weather-app-final/ 
+#Here is the link of Weather app https://inshalfatima.github.io/weather-app-final/ 
 
-Sources:
+##Ingredients:
 
 * HTML - to represent the information
 
-CSS - to style and for better UI
+* CSS - to style and for better UI
 
-Javacsript - to behave or interact the webpage
+* Javacsript - to behave or interact the webpage
 
-API (Application Programming Interface) - to fetch data
+* API (Application Programming Interface) - to fetch data
 
-JSON - the weather data
+* JSON - the weather data
 
-jQuery - a javascript library that helps in programming
+* jQuery - a javascript library that helps in programming
